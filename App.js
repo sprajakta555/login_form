@@ -1,5 +1,4 @@
 import { StyleSheet, Text, View } from 'react-native';
-import LoginPage from './Pages/LoginPage';
 import SignPage from './Pages/SignPage';
 
 export default function App() {
